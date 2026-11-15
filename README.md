@@ -32,6 +32,3 @@ Predicts household appliance energy consumption (in Wh) from indoor sensor readi
 
 ## Tech Stack
 Python, pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, statsmodels, Matplotlib
-
-## Team
-Group 7: Vaishnavi, K Narayan, Neha Byroju, G Hasini
