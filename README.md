@@ -1,6 +1,6 @@
 # Appliances Energy Prediction using Machine Learning
 
-> **Internship Project | Provided by Unified Mentor Pvt. Ltd. (UNP)**
+> **Internship Project | Provided by UNP Education**
 >
 > This project was completed as part of a Data Science / Machine Learning internship. The goal was to apply the end-to-end ML workflow (data cleaning, exploratory analysis, model building, hyperparameter tuning, feature selection and evaluation) to a real-world energy problem: predicting how much electricity household appliances will use, which can support energy planning, cost reduction and smarter home automation.
 
